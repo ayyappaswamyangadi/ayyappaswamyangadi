@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Ayyappa Swamy Angadi
 
-I'm a passionate **Frontend Developer** with experience building scalable web apps using **React**, **Next.js**, **TypeScript**, and **Styled Components**. I love solving real-world problems through clean, maintainable code and delightful interfaces.
+I'm a passionate **Frontend Developer** with experience building scalable web apps using **React**, **Next.js**, **TypeScript**, **TailwindCSS** and **Styled Components**. I love solving real-world problems through clean, maintainable code and delightful interfaces.
 
-- 🔭 Currently building with **React 19** **Next.js 14**, **App Router**, **Server Actions**, and **Edge Functions**
+- 🔭 Currently building with **React 19**, **Next.js 14**, **App Router**, **Server Actions**, and **Edge Functions**
 - 🌱 Exploring architecture patterns, component libraries, and full-stack integrations
 - 💼 Available for open-source contributions & freelance frontend work
 - 📫 Reach me at: <a href="mailto:ayyappaswamy50@gmail.com">ayyappaswamy50@gmail.com</a>
