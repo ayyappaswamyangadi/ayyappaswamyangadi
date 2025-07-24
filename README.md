@@ -26,7 +26,6 @@ I'm a passionate **Frontend Developer** with experience building scalable web ap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayyappaswamyangadi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyappaswamyangadi&theme=tokyonight" width="48%" />
 </div>
 
 ---
